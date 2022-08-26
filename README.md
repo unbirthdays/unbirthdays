@@ -1,6 +1,6 @@
 # Hello friends,
 
-<img src="https://animesher.com/orig/1/114/1140/11400/animesher.com_pink-cherry-blossoms-anime-scenery-1140085.png" alt="banner" width="800"/>
+<img src="https://animesher.com/orig/1/114/1140/11400/animesher.com_pink-cherry-blossoms-anime-scenery-1140085.png" alt="banner" width="1200"/>
 
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 
