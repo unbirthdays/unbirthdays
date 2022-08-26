@@ -1,8 +1,8 @@
 # Hello friends,
 
-Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.
+Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 
-![Moogle](https://image.pngaaa.com/192/929192-middle.png "Moogle")
+<img src="https://image.pngaaa.com/192/929192-middle.png" alt="moogle" width="200"/>
 
 **A quick rundown of who I am**:
   * A first-generation Asian American woman  
