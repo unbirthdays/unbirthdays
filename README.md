@@ -1,8 +1,8 @@
 # Hello friends,
 
+<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 
-<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
 **A quick rundown of who I am**:
 
 
