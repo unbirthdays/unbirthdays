@@ -5,7 +5,7 @@ Thank you for landing on my markdown document. If you're taking the time to lear
 **A quick rundown of who I am**:
 
 <img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
-<ul><small>
+<ul><font size="-2">
 <li>A first-generation Asian American woman</li><br>
 <li>A graduate of The University of Texas at Austin</li><br>
 <li>A technical-recruiter-turned-data-analys</li><br> 
@@ -20,7 +20,7 @@ Thank you for landing on my markdown document. If you're taking the time to lear
 <li>Keyboard builder</li><br>
 <li>Indoor gardener</li><br>
 <li><em>... and much more!</em></li><br>
-</small></ul>
+</font></ul>
 
 Please feel more than free to look at my files. A lot are a work in progress or me just messing around with learning materials.
 
