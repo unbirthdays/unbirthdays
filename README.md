@@ -1,6 +1,8 @@
 # Hello friends,
 
-[![Header](https://animesher.com/orig/1/150/1502/15026/animesher.com_aesthetic-scenery-gif-1502644.gif "Header")](https://www.linkedin.com/in/sbaccam/)
+
+
+<img src="https://animesher.com/orig/1/150/1502/15026/animesher.com_aesthetic-scenery-gif-1502644.gif" alt="banner" width="800"/>
 
 
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
