@@ -2,6 +2,8 @@
 
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.
 
+![Moogle](https://image.pngaaa.com/192/929192-middle.png "Moogle")
+
 **A quick rundown of who I am**:
   * A first-generation Asian American woman  
   * A graduate of The University of Texas at Austin  
