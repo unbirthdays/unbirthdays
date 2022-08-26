@@ -9,7 +9,7 @@ Thank you for landing on my markdown document. If you're taking the time to lear
 <li>A first-generation Asian American woman</li><br>
 <li>A graduate of The University of Texas at Austin</li><br>
 <li>A technical-recruiter-turned-data-analys</li><br> 
-<li><strike>Pretty much<strike> the best minesweeper player you'll meet</li><br>
+<li><strike>Pretty much</strike> the best minesweeper player you'll meet</li><br>
 <li>Best friends with a dog and frenemies with a cat</li><br> 
 <li>Somehow still a cat person</li><br>
 <li>Someone that somehow found her way into a coding bootcamp</li><br>
