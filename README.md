@@ -2,9 +2,9 @@
 
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 
-<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200"/>
-
 **A quick rundown of who I am**:
+
+<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
   * A first-generation Asian American woman  
   * A graduate of The University of Texas at Austin  
   * A technical-recruiter-turned-data-analyst  
