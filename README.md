@@ -2,10 +2,18 @@
 
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 
+<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
 **A quick rundown of who I am**:
 
-<img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
-<ul><font size="-2">
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
+      <ul>
 <li>A first-generation Asian American woman</li><br>
 <li>A graduate of The University of Texas at Austin</li><br>
 <li>A technical-recruiter-turned-data-analys</li><br> 
@@ -13,6 +21,10 @@ Thank you for landing on my markdown document. If you're taking the time to lear
 <li>Best friends with a dog and frenemies with a cat</li><br> 
 <li>Somehow still a cat person</li><br>
 <li>Someone that somehow found her way into a coding bootcamp</li><br>
+      </ul>
+   </td>
+    <td>
+      <ul>
 <li>A libra sun, virgo moon, sagittarius rising</li><br>
 <li>Kind of a neat freak</li><br>
 <li>Weirdly obsessed with corn</li><br>
@@ -20,7 +32,10 @@ Thank you for landing on my markdown document. If you're taking the time to lear
 <li>Keyboard builder</li><br>
 <li>Indoor gardener</li><br>
 <li><em>... and much more!</em></li><br>
-</font></ul>
+</ul>
+   </td>
+ </tr>
+</table>
 
 Please feel more than free to look at my files. A lot are a work in progress or me just messing around with learning materials.
 
