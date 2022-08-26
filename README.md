@@ -21,7 +21,7 @@ Thank you for landing on my markdown document. If you're taking the time to lear
   * Indoor gardener  
   * _... and much more!_  
 
-Please feel more than free to look at my files. A lot are a work in progress or messing around with learning materials.
+Please feel more than free to look at my files. A lot are a work in progress or me just messing around with learning materials.
 
 My portfolio should populate this space soon. Keep a lookout for that.
 
