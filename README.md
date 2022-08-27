@@ -16,7 +16,7 @@ My journey is a wild one. I am a product of two immigrants essentially floating 
  </tr>
  <tr>
     <td>
-      <ul>
+      <ul><br>
 <li>:thailand:	A first-generation Asian American woman</li><br>
 <li>:ox:	A graduate of The University of Texas at Austin</li><br>
 <li>:woman_teacher:	A technical-recruiter-turned-data-analyst</li><br> 
