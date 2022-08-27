@@ -3,8 +3,8 @@
 <br><img src="https://static.fandomspot.com/images/08/2191/16-moogle-woff-mirage.jpg" alt="moogle" width="200" align = "right"/>
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
 My journey is a wild one. I am a product of two immigrants essentially floating on a jellyfish to get to America. My studies led me to an Economics degree, a billion less hours of sleep than a normal person, and a penchant for changing up my MySpace and Tumblr profiles.<br>Quickly after graduating, I became a technical recruiter and learned the world of programmers and developers.<br>By no real mapped-out plan, I ended up being Outcomes Coordinator teaching budding software engineers industry and market knowledge, resume building, and generally how to navigate the tech space on their own.
-<br>I am in the middle of my diabolical plan to learn how to code like the next Ada Lovelace and take their job. (Just kidding for legal reasons.)
-<br> That's the abridged story of how I got to the beginning of my coding journey.
+<br>Essentially, I used to <em>help hire</em> software engineers, then I <em>coached</em> software engineers, and now I am in the middle of my diabolical plan to [learn how to code like the next Ada Lovelace and] <em>take all of their jobs</em>. (Just kidding... for legal reasons.)
+<br> That's the abridged story of how I got to the beginning of my coding journey! Thanks for taking the time to listen to my rambling.
   
 <img src="https://i.postimg.cc/nzL7Lzfq/Screen-Shot-2022-08-26-at-8-12-44-PM.png" align = "center"/>
 
