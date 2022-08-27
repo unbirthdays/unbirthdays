@@ -6,7 +6,7 @@ My journey is a wild one. I am a product of two immigrants essentially floating 
 <br>I am in the middle of my diabolical plan to learn how to code like the next Ada Lovelace and take their job. (Just kidding for legal reasons.)
 <br> That's the abridged story of how I got to the beginning of my coding journey.
   
-<img src="https://i.postimg.cc/fbvHSJtL/Screen-Shot-2022-08-26-at-7-22-35-PM.png" align = "center"/>
+<img src="https://i.postimg.cc/D0hLrc93/Screen-Shot-2022-08-26-at-7-27-42-PM.png" align = "center"/>
 
   
 ## **A quick and pointless rundown of who I am**:
