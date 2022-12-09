@@ -42,6 +42,6 @@ My journey is a wild one. I am a product of two immigrants essentially floating 
 
 Please feel more than free to look at my files. A lot are a work in progress or me just messing around with learning materials.
 
-My portfolio should populate this space soon. Keep a lookout for that.
+Check out my portfolio <a href="https://unbirthdays.github.io/">here</a>!
 
 
