@@ -1,5 +1,5 @@
 <picture><img alt="header" src="WhiteBGHeader.gif"></picture>
-# <h1 align="center" style="margin-top: 0px;">You've found Sabrina's treasure <strike>cove</strike> of code!</h1>
+# <h1 align="center" style="margin-top: 0px;">:turtle: You've found Sabrina's treasure <strike>cove</strike> of code! :tropical_fish:</h1>
 
 <br><picture><img src="moogle-removebg-preview.png" width="200" align = "right"/></picture>
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
@@ -9,7 +9,7 @@ My journey is a wild one. I am a product of two immigrants essentially floating 
   
 <picture><img src="Sabrina_the_data_analyst.png" align = "center"/></picture>
  
-## **A quick and pointless rundown of who I am**:
+## **:potted_plant: A quick and pointless rundown of who I am**:
 
 <table border="0">
  <tr>
