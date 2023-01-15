@@ -1,4 +1,4 @@
-![header](header.gif)
+![header](WhiteBGHeader.gif)
 <br>
 # :potted_plant:	Hello friends, 
 
