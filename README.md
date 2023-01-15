@@ -1,6 +1,6 @@
 ![header](WhiteBGHeader.gif)
 <br>
-# :potted_plant:	Hello friends, 
+# <h1 align="center" style="margin-top: 0px;">You've found Sabrina's treasure <strike>cove</strike> of code!</h1>
 
 <br><img src="moogle-removebg-preview.png" width="200" align = "right"/>
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
