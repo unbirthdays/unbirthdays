@@ -8,7 +8,7 @@ My journey is a wild one. I am a product of two immigrants essentially floating 
 <br>Essentially, I used to <em>help hire</em> software engineers, then I <em>coached</em> software engineers, and now I am in the middle of my diabolical plan to [learn how to code like the next Ada Lovelace and] <em>take all of their jobs</em>. (Just kidding... for legal reasons.)
 <br> That's the abridged story of how I got to the beginning of my coding journey! Thanks for taking the time to listen to my rambling.
   
-<img src="mebasically.png" align = "center"/>
+<img src="Sabrina_the_data_analyst.png" align = "center"/>
 
  
 ## **A quick and pointless rundown of who I am**:
