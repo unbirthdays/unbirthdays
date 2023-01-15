@@ -1,12 +1,14 @@
+![header](header.gif)
+<br>
 # :potted_plant:	Hello friends, 
 
-<br><img src="https://i.postimg.cc/CLp2RLQG/moogle-removebg-preview.png" alt="moogle" width="200" align = "right"/>
+<br><img src="moogle-removebg-preview.png" width="200" align = "right"/>
 Thank you for landing on my markdown document. If you're taking the time to learn more about me, I am grateful.  
-My journey is a wild one. I am a product of two immigrants essentially floating on a jellyfish to get to America. My studies led me to an Economics degree, a billion less hours of sleep than a normal person, and a penchant for changing up my MySpace and Tumblr profiles.<br>Quickly after graduating, I became a technical recruiter and learned the world of programmers and developers.<br>By no real mapped-out plan, I ended up being an Outcomes Coordinator at a coding bootcamp teaching budding software engineers industry and market knowledge, resume building, and generally how to navigate the tech space on their own. Although I had prior experience with regressional analyses, I ended up going through the program where I work to learn more about data analytics.
+My journey is a wild one. I am a product of two immigrants essentially floating on a jellyfish to get to America. My studies led me to an Economics degree, a billion less hours of sleep than a normal person, and a penchant for changing up my MySpace and Tumblr profiles.<br>Quickly after graduating, I became a technical recruiter and learned the world of programmers and developers.<br>By no real mapped-out plan, I ended up being an Outcomes Coordinator at two coding bootcamps teaching budding software engineers industry and market knowledge, resume building, and generally how to navigate the tech space on their own. Although I had prior experience with regressional analyses, I ended up going through the program where I work to learn more about data analytics. Now, I'm using my skills with Python, SQL, and various libraries to manipulate, organize, and visualize data!
 <br>Essentially, I used to <em>help hire</em> software engineers, then I <em>coached</em> software engineers, and now I am in the middle of my diabolical plan to [learn how to code like the next Ada Lovelace and] <em>take all of their jobs</em>. (Just kidding... for legal reasons.)
 <br> That's the abridged story of how I got to the beginning of my coding journey! Thanks for taking the time to listen to my rambling.
   
-<img src="https://i.postimg.cc/nzL7Lzfq/Screen-Shot-2022-08-26-at-8-12-44-PM.png" align = "center"/>
+<img src="mebasically.png" align = "center"/>
 
  
 ## **A quick and pointless rundown of who I am**:
